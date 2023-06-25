@@ -6,9 +6,6 @@
   <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/sameer1604" />
-</p>
 
 <p align="center">
 <br>
@@ -24,7 +21,6 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### I am a Full Stack Developer
-- 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2023 Goals: Contribute to Open Source projects
@@ -61,15 +57,10 @@
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=voxsrp&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1604&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxsrp&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
-
------
-Credits: [vox](https://github.com/sameer1604)
-
-Last Edited on: 6/25/2023

@@ -1,2 +1,4 @@
-some of my work can be found here
-https://github.com/VoxtyDevelopment
+majority of my public work can be found on the vox development github
+- https://github.com/voxtydevelopment
+
+all other work public work is found on this github everything else is private
